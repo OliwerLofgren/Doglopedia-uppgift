@@ -21,9 +21,10 @@ h1{
     font-size: 40px;
 }
 
-h2{
+h2#second-top-header{
     font-size: 28px;
     text-align: center;
+    font-style: italic;
 
 }
 
@@ -42,8 +43,10 @@ a.links{
     color: black;
 }
 
-h2#second-header{
+h2#second-bottom-header{
     font-size: 26px;
+    text-align: center;
+    
 }
 
 div#image{
@@ -77,5 +80,8 @@ main{
 }
 
 footer{
-    
+    text-align: center;
+    font-size: 15px;
+    margin: auto;
+    padding: 25px;
 }
