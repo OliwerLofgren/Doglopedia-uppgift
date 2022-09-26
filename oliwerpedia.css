@@ -27,4 +27,15 @@ h2{
 
 nav{
 text-align: center;
+word-spacing: 10px;
+border-bottom: 2px solid rgba(95, 90, 90, 0.1);
+padding-bottom: 10px; 
+
+
+}
+
+a.links{
+    border-bottom: 2px dotted black;
+    text-decoration: none;
+    color: black;
 }
